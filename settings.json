@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "pipi_vermelho.aternos.me",
+    "ip": "kahawai.aternos.host",
     "port": 50440,
     "version": "",
     "try-creative": false
